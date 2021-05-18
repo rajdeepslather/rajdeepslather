@@ -4,13 +4,17 @@ I'm a Software Engineer at Amazon currently working within AWS AI on Amazon Reko
 
 I have a Masters in Computer Science with a concentration in Machine Learning from George Mason University and a Bachelors in Software Engineering from Delhi Technological University (Formerly Delhi College of Engineering).
 
-#### 🌱 My interests ...
-- Machine Learning, AI, Data Science
-- Distributed Computing, Concurrent Programming
-- Software Engineering, Cloud technologies
-- Java, Python
+⚡ My open source contibution: [MASON Multiagent Simulation Toolkit](https://github.com/eclab/mason)
 
-#### 📫 Reach me @ ...
+🔭 My publication: [Assisted Parameter and Behavior Calibration in Agent-based Models with Distributed Optimization - In PAAMS 2020](https://github.com/rajdeepslather/rajdeepslather/blob/main/Assisted_Parameter_and_Behavior_Calibration_in_Agent-Based_Models_with_Distributed_Optimization.pdf)
+
+🌱 My interests ...
+- Java, Python
+- Machine Learning, AI, Data Science
+- Software Engineering, Cloud technologies
+- Distributed Computing, Concurrent Programming
+
+📫 Reach me @ ...
 - [LinkedIn](https://www.linkedin.com/in/rajdeepslather/)
 - [Email](mailto:rajdeepslather@gmail.com)
 
