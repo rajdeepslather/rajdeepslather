@@ -6,9 +6,9 @@ I have a Masters in Computer Science with a concentration in Machine Learning fr
 
 ⚡ My open source contibution: [MASON Multiagent Simulation Toolkit](https://github.com/eclab/mason)
 
-🔭 My publication: [Assisted Parameter and Behavior Calibration in Agent-based Models with Distributed Optimization - In PAAMS 2020](https://github.com/rajdeepslather/rajdeepslather/blob/main/Assisted_Parameter_and_Behavior_Calibration_in_Agent-Based_Models_with_Distributed_Optimization.pdf)
+🔭 Publication: [Assisted Parameter and Behavior Calibration in Agent-based Models with Distributed Optimization @ PAAMS 2020](https://github.com/rajdeepslather/rajdeepslather/blob/main/Assisted_Parameter_and_Behavior_Calibration_in_Agent-Based_Models_with_Distributed_Optimization.pdf)
 
-🌱 My interests ...
+🌱 Interests ...
 - Java, Python
 - Machine Learning, AI, Data Science
 - Software Engineering, Cloud technologies
