@@ -5,7 +5,7 @@ I'm a Software Engineer at Amazon currently working within AWS AI on Amazon Reko
 🎓 Masters in Computer Science with a concentration in Machine Learning from George Mason University. </br>
 📚 Bachelors in Software Engineering from Delhi Technological University (Formerly Delhi College of Engineering).
 
-⚡ My open source contibution: [MASON Multiagent Simulation Toolkit](https://github.com/eclab/mason) </br>
+⚡ Open source contibution: [MASON Multiagent Simulation Toolkit](https://github.com/eclab/mason) </br>
 🔭 Publication: [Assisted Parameter and Behavior Calibration in Agent-based Models with Distributed Optimization @ PAAMS 2020](https://github.com/rajdeepslather/rajdeepslather/blob/main/Assisted_Parameter_and_Behavior_Calibration_in_Agent-Based_Models_with_Distributed_Optimization.pdf)
 
 🌱 Interests ...
