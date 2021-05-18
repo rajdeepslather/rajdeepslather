@@ -4,18 +4,11 @@ I'm a Software Engineer at Amazon currently working within AWS AI on Amazon Reko
 
 I have a Masters in Computer Science with a concentration in Machine Learning from George Mason University and a Bachelors in Software Engineering from Delhi Technological University (Formerly Delhi College of Engineering).
 
-<br/>
-
 #### 🌱 My interests ...
-- Machine Learning
-- AI
-- Data Science
-- Distributed Computing
-- Concurrent Programming
-- Software Engineering
-- Cloud technologies
-- Java
-- Python
+- Machine Learning, AI, Data Science
+- Distributed Computing, Concurrent Programming
+- Software Engineering, Cloud technologies
+- Java, Python
 
 #### 📫 Reach me @ ...
 - [LinkedIn](https://www.linkedin.com/in/rajdeepslather/)
