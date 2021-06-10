@@ -15,7 +15,7 @@ I'm a Software Engineer at Amazon currently working within AWS AI on Amazon Reko
 - Distributed Computing, Concurrent Programming
 
 📫 Reach me @ ...
-- [LinkedIn](https://www.linkedin.com/in/rajdeepslather/)
+<!-- - [LinkedIn](https://www.linkedin.com/in/rajdeepslather/) -->
 - [Email](mailto:rajdeepslather@gmail.com)
 <!--
 **rajdeepslather/rajdeepslather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
